@@ -1,2 +1,2 @@
-# flask
-flask project for lab
+# Flask_project
+This is a simple flask project
